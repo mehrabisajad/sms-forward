@@ -1,4 +1,4 @@
-package ir.novalab.onlineregistration;
+package ir.mehrabisajad.smsforward;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
